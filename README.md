@@ -26,7 +26,7 @@ A theme for the [SDDM login manager](https://github.com/sddm/sddm).
 1. Clone this repository:
 
    ```sh
-   sudo git clone https://github.com/kamack38/sddm-greenleaf-theme.git /usr/share/sddm/themes/greenleaf
+   sudo git clone https://github.com/MI1309/sddm-greenleaf-modify /usr/share/sddm/themes/
    ```
 
 2. Then edit `/etc/sddm.conf`, so that it looks like this:
